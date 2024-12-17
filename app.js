@@ -3,4 +3,4 @@ console.log(array)
 console.log("math");
 console.log("hard");
 
-
+const add=["salom"]
